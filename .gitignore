@@ -1,0 +1,39 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# Example: .Renviron contains sensitive env vars
+.Renviron
+
+# Packages and library
+.libPaths()
+# If you use renv:
+# renv/library/
+# renv/staging/
+
+# Output files
+*.pdf
+*.png
+*.html
+
+# IDE-specific files
+.Rproj.user/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Deployment artifacts
+rsconnect/
+manifest.json
+
+# Environment variables
+.env
